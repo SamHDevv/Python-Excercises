@@ -1,6 +1,6 @@
 {
     "port": 3000,
-    "address": "https://b533f93f-48dd-45f6-9fe9-f931bc1a3565.ws-eu03.gitpod.io",
+    "address": "https://aqua-quelea-q0fy16k8.ws-eu03.gitpod.io",
     "editor": "gitpod",
     "configPath": {
         "config": "bc.json",
@@ -157,7 +157,7 @@
         {
             "slug": "10-Calling-Your-First-Function",
             "title": "10-Calling-Your-First-Function",
-            "done": false,
+            "done": true,
             "path": "exercises/10-Calling-Your-First-Function",
             "translations": [
                 "es",
@@ -168,7 +168,7 @@
         {
             "slug": "10.01-Creating-Your-First-Function",
             "title": "10.01-Creating-Your-First-Function",
-            "done": false,
+            "done": true,
             "path": "exercises/10.01-Creating-Your-First-Function",
             "translations": [
                 "es",
@@ -179,7 +179,7 @@
         {
             "slug": "11-Create-A-New-Function",
             "title": "11-Create-A-New-Function",
-            "done": false,
+            "done": true,
             "path": "exercises/11-Create-A-New-Function",
             "translations": [
                 "es",
@@ -201,7 +201,7 @@
         {
             "slug": "15-Your-First-Loop",
             "title": "15-Your-First-Loop",
-            "done": false,
+            "done": true,
             "path": "exercises/15-Your-First-Loop",
             "translations": [
                 "es",
